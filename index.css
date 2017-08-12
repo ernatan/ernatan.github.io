@@ -1,0 +1,22 @@
+
+em {
+    
+        text-decoration: underline;
+    text-decoration-color:red;
+    
+    
+
+}
+thead {
+    font-family: "Lucida Console";
+    font-style: italic;
+}
+tr {
+text-align: center;
+}
+table {
+    border: 1px solid black;
+}
+.my-h1{
+    font-size: 3em;
+}

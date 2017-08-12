@@ -1,0 +1,14 @@
+body {
+    background-color: pink;
+}
+
+img {
+    display: block;
+}
+
+.special {
+    border: 5px red dashed;
+}
+h1 {
+    text-shadow: 5px 2px 5px grey
+}
